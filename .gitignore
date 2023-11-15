@@ -1,0 +1,15 @@
+/target/test-classes/pojo/AddPlace.class
+/target/test-classes/resources/ApiResources.class
+/target/test-classes/maps/Basic.class
+/target/test-classes/stepDefinitions/Hooks.class
+/target/test-classes/pojo/Location.class
+/target/test-classes/maps/Payload.class
+/RestAssured.iml
+/target/test-classes/maps/ReusableMethod.class
+/target/test-classes/stepDefinitions/StepDefinition.class
+/target/test-classes/resources/TestDataBuild.class
+/target/classes/TestRestAssured.class
+/target/test-classes/options/TestRunner.class
+/target/test-classes/resources/Utils.class
+/target/jsonReports/cucumber-report.json
+/logging.txt
