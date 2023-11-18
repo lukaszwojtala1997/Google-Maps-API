@@ -21,10 +21,10 @@ public class TestDataBuild {
         myList.add("shop");
 
         addPlace.setTypes(myList);
-        Location l =new Location();
-        l.setLatitude(-38.383494);
-        l.setLongitude(33.427362);
-        addPlace.setLocation(l);
+        Location location = new Location();
+        location.setLatitude(-38.383494);
+        location.setLongitude(33.427362);
+        addPlace.setLocation(location);
         return addPlace;
     }
 
